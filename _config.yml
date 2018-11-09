@@ -27,7 +27,7 @@ twitterUsername: linuxchixin
 # Build settings
 markdown: kramdown
 
-themeColor: orange # green, blue, orange, purple, grey
+themeColor: purple # green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
 permalink: /:year/:month/:title
