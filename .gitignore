@@ -1,0 +1,5 @@
+# Output of `bundle exec jekyll serve`.
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
