@@ -37,4 +37,4 @@ The coordinators will be there to help each member feel safe and free of harassm
 
 
 
-If a member engages in behavior that violates the code of conduct, the coordinators can take whatever action they deem appropriate, including from warnings to expulsion from the IRC channel and mailing list.
+If a member engages in behavior that violates the code of conduct, the coordinators can take whatever action they deem appropriate, including from warnings to expulsion from the [IRC channel](https://mailman.linuxchix.org/mailman/listinfo/indichix), [Mailing list](https://www.linuxchix.org/content/irc-chat) and [Telegram](https://t.me/joinchat/BzYbR0NlHezSUou42Q78JQ)
