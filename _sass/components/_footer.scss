@@ -1,7 +1,8 @@
 /* ==========================================================================
    Footer
    ========================================================================== */
-// styling for footer the section 
+// styling for footer section 
+
 
 footer{
   background-color : $c__deep-purple;
@@ -19,16 +20,12 @@ footer{
 
     div{
       box-sizing: border-box;
-      padding: 30px 0;
+      padding: 30px 100px;
       h3{
         font-size : 17px;
         text-transform: uppercase;
       }
-      p{
-        font-size: 12px;
-        padding: 20px 0;
-      }
-  
+       
       ul{
         margin : 0;
         li{
@@ -39,6 +36,11 @@ footer{
           text-transform: uppercase;
           letter-spacing: 1px;
           word-spacing: 0.5px;
+        }
+
+        p{
+          margin-top : 20px;
+          font-size : 14px;
         }
       }
 
@@ -59,6 +61,12 @@ footer{
           margin-left : 0px;
         }
       }
+    }
+  }
+
+  @media (max-width : 480px) {
+    .row div{
+      padding: 30px 0px !important;
     }
   }
 }
