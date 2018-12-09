@@ -17,7 +17,7 @@ description: > # this means to ignore newlines until "baseurl:"
   You do not need to know Go, be a professional developer or enjoy talking to strangers in order to come hang out with us!
   This group is for you if you are interested in Go , and are looking for a safe space to learn.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social
@@ -27,7 +27,7 @@ twitterUsername: womenwhogo_del
 # Build settings
 markdown: kramdown
 
-themeColor: blue # green, blue , orange, purple, grey
+themeColor: blue # green, purple, orange, blue, grey
 fixedNav: 'true' # true or false
 
 permalink: /:year/:month/:title
