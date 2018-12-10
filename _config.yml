@@ -23,6 +23,8 @@ url: "" # the base hostname & protocol for your site
 # Social
 githubUsername: wwgdelhi
 twitterUsername: womenwhogo_del
+facebookUsername: WomenWhoGoDelhi
+meetupUsername: New-Delhi-Women-Who-Go
 
 # Build settings
 markdown: kramdown
