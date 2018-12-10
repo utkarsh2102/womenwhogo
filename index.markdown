@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Welcome to LinuxChix India!
+title: Welcome to Women Who Go!
 ---
 
 {:refdef: style="text-align: center;"}
-![LinuxChix logo](assets/img/logo_transparent.png)
+![Women Who Go logo](assets/img/logo_transparent.png)
 {: refdef}
 
 
-<br>
-
-
-LinuxChix is a community for women who like Linux and for anyone who wants to support women in computing. We aim to promote FOSS primarily Linux and related projects among women and other minorities in tech. We are a group of enthusiastic people ranging from students to professional experts willing to teach and foster the growth of Linux.
-
+<br /><br />
+You do not need to know Go, be a professional developer or enjoy talking to strangers in order to come hang out with us! 
+<br /><br />  This group is for you if you are interested in Go, and are looking for a safe space to learn.. 
+<br /><br />   We would love for you to speak at Women Who Go! Contact 
+<a href="delhi@womenwhogo.org">delhi@womenwhogo.org</a> about a short talk, demo, or whatever you have in mind! 
+<br />
 
