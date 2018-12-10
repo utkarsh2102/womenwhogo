@@ -15,7 +15,7 @@ title: Women Who Go Delhi
 email: delhi@womenwhogo.org # Mailing list
 description: > # this means to ignore newlines until "baseurl:"
   You do not need to know Go, be a professional developer or enjoy talking to strangers in order to come hang out with us!
-  This group is for you if you are interested in Go , and are looking for a safe space to learn.
+  This group is for you if you are interested in Go, and are looking for a safe space to learn.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
